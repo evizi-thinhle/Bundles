@@ -33,5 +33,5 @@ var vungleTokenMap = {
     "20":"START_MUTED",
     "21":"VIDEO_PROGRESS_BAR",
     "22":"AUTO_LOCALIZE",
- x   "23":"FULL_CTA"
+    "23":"FULL_CTA"
 };
