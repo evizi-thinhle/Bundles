@@ -11,7 +11,7 @@ function getVungleReplacementTokens() {
 		"08": "Disney",
 		"09": "icon.png",
 		"0a": "4.5-stars.svg",
-		"0b": "https://vungle.com",
+		"0b": "https://apps.apple.com/us/app/disneynow-episodes-live-tv/id529997671?uo=4",
 		"0c": "671b8038e0c7193c2593aae5a2c0cd87.mp4-1280x720-hevc-Q2.mp4",
 		"0d": "Are you sure you want to skip this ad? You must finish watching to claim your reward.",
 		"0e": "Close",
