@@ -28,7 +28,7 @@ function getVungleReplacementTokens() {
 		"19": "true",
 		"1a": "true",
 		"1b": "true",
-		"1c": "overlay_view",
+		"1c": "product_view",
 		"1d": "overlay_view",
 		"1e": "default",
 		"1f": "default",
