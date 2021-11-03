@@ -40,6 +40,7 @@ function getVungleReplacementTokens() {
 		"25": "Accept",
 		"26": "Deny",
 		"27": "Personalized Ads",
-		"28": "Ads are personalized. Denying would disable it"
+		"28": "Ads are personalized. Denying would disable it",
+		"30": "fsc_on"
 	};
 }
