@@ -14,7 +14,7 @@ function getVungleReplacementTokens() {
 		"0b": "false",
 		"0c": "45f6d2515f1941f448ac9a0fa6c289a3.mp4-1280x720-hevc-Q2.mp4",
 		"0d": "652ad266f14f42d8114bcec2716f6a54.zip",
-		"0e": "https://vungle.com",
+		"0e": "https://apps.apple.com/us/app/disneynow-episodes-live-tv/id529997671?uo=4",
 		"0f": "true",
 		"10": "true",
 		"11": "2",
