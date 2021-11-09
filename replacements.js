@@ -15,9 +15,9 @@ function getVungleReplacementTokens() {
 		"0c": "45f6d2515f1941f448ac9a0fa6c289a3.mp4-1280x720-hevc-Q2.mp4",
 		"0d": "652ad266f14f42d8114bcec2716f6a54.zip",
 		"0e": "https://apps.apple.com/us/app/disneynow-episodes-live-tv/id529997671?uo=4",
-		"0f": "false",
-		"10": "false",
-		"11": "3.5",
+		"0f": "true",
+		"10": "true",
+		"11": "2",
 		"12": "true",
 		"13": "false",
 		"14": "true",
@@ -30,7 +30,7 @@ function getVungleReplacementTokens() {
 		"1b": "overlay_view",
 		"1c": "default",
 		"1d": "default",
-		"1e": "61821110a7afbd3c853a134b",
+		"1e": "618a223d340654ac45436314",
 		"1f": "8997430F-B901-441E-AAA0-F19B713D9283",
 		"20": "ios",
 		"21": "15.0",
@@ -41,6 +41,6 @@ function getVungleReplacementTokens() {
 		"26": "Deny",
 		"27": "Personalized Ads",
 		"28": "Ads are personalized. Denying would disable it",
-		"30": "fsc_on"
+		"29": "adv_pref"
 	};
 }
