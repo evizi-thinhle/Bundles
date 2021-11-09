@@ -40,5 +40,5 @@ var vungleTokenMap = {
 	"26": "CONSENT_DENY_BUTTON_TEXT",
 	"27": "CONSENT_TITLE_TEXT",
 	"28": "CONSENT_BODY_TEXT",
-	"30": "FULL_CTA_OPTION"
+	"29": "FULL_CTA_OPTION"
 };
