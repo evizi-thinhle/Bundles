@@ -23,7 +23,7 @@ function getVungleReplacementTokens() {
 		"14": "true",
 		"15": "vungle-privacy.svg",
 		"16": "https://privacy.vungle.com",
-		"17": "aggressive",
+		"17": "complete",
 		"18": "product_view",
 		"19": "off",
 		"1a": "product_view",
