@@ -26,7 +26,7 @@ function getVungleReplacementTokens() {
 		"17": "49B95Q0S6YPW0058ZN7U186ERP03NYREMV3N",
 		"18": "3.5",
 		"19": "default",
-		"1a": "default",
+		"1a": "product_view",
 		"1b": "false",
 		"1c": "61ee0d299190ebcd34330ef7",
 		"1d": "false",
