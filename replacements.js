@@ -2,7 +2,7 @@ function getVungleReplacementTokens() {
 	return {
 		"00": "iOS",
 		"01": "15",
-		"02": "6.10.1",
+		"02": "6.9.2",
 		"03": "true",
 		"04": "default",
 		"05": "46",
