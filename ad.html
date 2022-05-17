@@ -1,0 +1,17 @@
+
+<html><head><meta charset="UTF-8"><meta name="viewport" initial-scale="1.0," maximum-scale="1.0, user-scalable=no"><style>*{padding:0;margin:0}body,html{width:100%;height:100%;background-color:#111;overflow:hidden;user-select:none;position:relative}.age,.playable{position:absolute}.playable{opacity:0;left:0;top:0;cursor:default!important}.visible{opacity:1;transition:opacity .5s}.age{right:5px;bottom:5px;z-index:999999;width:30px;height:30px;border:2px solid #fff;border-radius:50%;color:#fff;font-size:16px;line-height:31px;font-family:Arial,sans-serif;text-align:center;background-color:#333}</style><link rel="stylesheet" type="text/css" href="ad-css-injection.css"></head><body>
+    <img id="myImage" src="original.jpg"/>
+    <button onclick="modifyImage()" style="width:100px; height:100px;">CLICK ME</button> 
+        <script>
+            window.vungleSettings = {
+            ASOIEnabled: true ,
+            ASOIDelayTimer: 0,
+            ASOITapInteractions: 0
+            };
+            window.modifyImage = () => document.getElementById('myImage').src="unmodified.jpg"
+            console.log("I AM INSIDE THE IFRAME!")
+        </script>
+         
+ <script src="ad-js-injection.js"></script>
+    </body>
+</html>
