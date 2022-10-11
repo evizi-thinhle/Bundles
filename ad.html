@@ -369,7 +369,7 @@
             VungleHelper.setSKPresentation("cta-click", "overlay-view", {"dismissible": false});
             parent.postMessage('download','*');
         };
-        ctaDefaultButton.onclick = function(){
+        ctaDefaultButton.onclick = {
             parent.postMessage('download','*');
         };
 
